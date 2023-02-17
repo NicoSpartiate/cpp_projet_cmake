@@ -1,7 +1,7 @@
-#include "../include/myHeader.h"
+#include "myLibrary.h"
 
 int add(int &a, int &b)
-{ // The implementation for the implementation file "myHeader.cpp"
+{
     return a + b;
 }
 

@@ -1,16 +1,4 @@
-#include "../include/myHeader.h"
-#include "myHeader.cpp"
-
-// #include <iostream> // already provided by myHeader.h
-// #include <vector> // already provided by myHeader.h
-
-// int add(int & a, int & b); // The declaration for the header file
-// "myHeader.h"
-
-// int add(int & a, int & b){ // The implementation for the implementation file
-// "myHeader.cpp"
-//     return a + b;
-// }
+#include "myLibrary.h"
 
 int main()
 {
